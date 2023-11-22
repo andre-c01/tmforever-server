@@ -1,2 +1,8 @@
-# tmforever-server
-Create a TrackMania Forever (United/Nations) Server
+# TrackMania Nations Forever
+
+Create a TrackMania Forever Nations Server
+
+## Prerequisites
+
+## Debian
+
